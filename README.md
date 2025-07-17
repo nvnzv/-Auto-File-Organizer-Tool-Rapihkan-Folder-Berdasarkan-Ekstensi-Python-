@@ -3,7 +3,7 @@
 # Cara pakai:
 # 1. Jalankan script ini (python organizer.py)
 # 2. Masukkan path folder target saat diminta
-# 🔥 Untuk versi premium dengan GUI dan log hasil, beli di Lynk: https://lynk.id/navanza
+# 🔥 Untuk versi premium dengan GUI dan log hasil, beli di Lynk: https://lynk.id/nvnzv
 
 import os
 import shutil
